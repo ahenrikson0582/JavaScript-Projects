@@ -8,10 +8,10 @@
 .square {
     height: 200px;
     width: 200px;
-    border: solid black 1px;
+    border: solid rgb(145, 39, 39) 1px;
 }
 
 .mole {
-    background-image: url('mole.jpg'); 
+    background-image: url('mole.png'); 
     background-size: cover;
 }
